@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924352275895",
+    "project_id": "pocket-library-f11ff",
+    "storage_bucket": "pocket-library-f11ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924352275895:android:fe0553e1d6507e85dc7432",
+        "android_client_info": {
+          "package_name": "com.example.pocketlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpSZ4TQNhJHpDzKPr44-wZdAhwlM3KPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
